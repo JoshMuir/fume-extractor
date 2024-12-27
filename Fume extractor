@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.4">
   <diagram name="Page-1" id="_ERE2FIrenDLnHVweg_F">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#1a5fb4" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vPJItmlUddRkhBca2o7U-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="380" y="244" width="861" height="652" as="geometry" />
+        </mxCell>
+        <mxCell id="vPJItmlUddRkhBca2o7U-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Fume Extractor&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="448" y="272" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vPJItmlUddRkhBca2o7U-3" value="Intake Fan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="654" y="495" width="96" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="vPJItmlUddRkhBca2o7U-5" value="Intake Ducting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="654" y="370" width="96" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="vPJItmlUddRkhBca2o7U-6" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="816" y="495" width="96" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="vPJItmlUddRkhBca2o7U-7" value="Exhaust" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="978" y="495" width="96" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="vPJItmlUddRkhBca2o7U-8" value="Intake" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593" y="314" width="200" height="283" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
