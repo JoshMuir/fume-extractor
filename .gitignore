@@ -1,0 +1,36 @@
+# Ignore build output directories
+build/
+.vscode/
+
+# Ignore Arduino build files
+*.ino.elf
+*.ino.bin
+*.ino.hex
+*.ino.d
+*.ino.o
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Ignore compiled object files
+*.o
+*.d
+
+# Ignore cache files
+*.cache
+
+# Ignore user-specific files
+*.user
+
+# Ignore directories
+#pwmer/
+
+# Ignore FreeCAD files
+#*.FCStd
+#*.FCBak
+
+# Ignore other temporary files
+*.csv
